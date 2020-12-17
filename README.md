@@ -1,5 +1,5 @@
 # BowlingGame
-Program that calculates a complete game of bowling
+Program that calculates score of a complete game of bowling
 
 addThrow(pins) => adds to the current frame of an ongoing game and returns the current game state in an array format. Returns 'invalid input' if the given pins number is invalid for the game situation. it stops taking input when complete data is available. Need to reset game to start over.
 
